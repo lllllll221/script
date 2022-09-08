@@ -1,0 +1,43 @@
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+{
+    "variables":
+    {
+    },
+    "globals":
+    {
+        "foreground": "var(white)",
+        "background": "var(brown2)",
+        "accent": "var(green)",
+        "caret": "var(white)",
+        "fold_marker": "var(green)",
+        "block_caret": "var(white)",
+        "gutter": "var(brown2)",
+        // "gutter_foreground": "var(grey3)",
+        "gutter_foreground": "var(grey2)", // updated to be darker
+        "line_highlight": "var(grey4)",
+        "line_diff_added": "var(green3)",
+        "line_diff_modified": "var(blue2)",
+        "line_diff_deleted": "var(brown)",
+        "selection": "var(grey5)",
+        "inactive_selection": "var(grey6)",
+        "inactive_selection_foreground": "var(grey)",
+        "misspelling": "var(red2)",
+        "active_guide": "var(white)",
+        "stack_guide": "var(grey2)",
+        "guide": "var(cream)",
+        "highlight": "var(green2)",
+        "find_highlight_foreground": "var(green)",
+        "find_highlight": "var(green2)",
+        "brackets_options": "underline",
+        "brackets_foreground": "var(grey5)",
+        "bracket_contents_options": "underline",
+        "tags_options": "stippled_underline",
+        "tags_foreground": "var(grey4)", 
+        "shadow": "color(var(black) alpha(0.25))"
+
+    },
+    "rules":
+    [
+        
+    ]
+}
